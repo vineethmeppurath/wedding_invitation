@@ -1,7 +1,7 @@
-![banner](banner.PNG)<br>
+<!-- <!-- ![banner](banner.PNG)<br>
 # Wedding Invitation Template
 This is a wedding invitation web template built using HTML5, SCSS and javascript.<br>
-**Check out [live preview](https://devvma.github.io/WebTemplates-WeddingInvitation/)**
+**Check out [live preview](https://devvma.github.io/WebTemplates-WeddingInvitation/)** -->
 
 ## Feature
 * Cover page
@@ -19,4 +19,4 @@ This is a wedding invitation web template built using HTML5, SCSS and javascript
 - [x] Scroll to section using jQuery
 - [x] Show/hide navigation on scroll using jQuery
 - [x] Built slider using Owl Caraousel
-- [x] Slide up entrance animation using CSS transisiton
+- [x] Slide up entrance animation using CSS transisiton -->
