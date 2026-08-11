@@ -1,4 +1,4 @@
-const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyB-yZ-pNGL5H1FgszbCKVeEzneyphLXu_ZK_aT7NX4xmLoxbxhbmngUKwNDv3U4s5y/exec";
+const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzVUMyTbXuIc28aqYKMVllhQAkm288C3WIlwZIDJp4z6Ctx2KnVPl1m07N3Sm4KWEGuEA/exec";
 
 $(document).ready(function() {
   const wishesList = document.getElementById('wishes-list');
